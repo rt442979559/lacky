@@ -1,0 +1,35 @@
+{
+  "name": "lacky",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^3.2.2",
+    "ant-design-vue": "^1.7.4",
+    "axios": "^0.21.1",
+    "babel-plugin-import": "^1.13.3",
+    "core-js": "^3.6.5",
+    "less": "^4.1.1",
+    "less-loader": "^6.0.0",
+    "normalize.css": "^8.0.1",
+    "tinymce": "^5.3.1",
+    "vue": "^2.6.11",
+    "vue-luck-draw": "^3.4.5",
+    "vue-page-transition": "^0.2.2",
+    "vue-router": "^3.2.0",
+    "vue-seamless-scroll": "^1.1.23",
+    "vuescroll": "^4.17.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
